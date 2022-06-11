@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
 
 :root {
-  --font-family: 'Raleway', sans-serif;
-  --bg-color: #BAFFB4;
-  --primary-color: #FF6363;
+  --font-family: "Raleway", sans-serif;
+  --bg-color: #baffb4;
+  --primary-color: #ff6363;
 }
 
-body{
+body {
   background-color: var(--bg-color);
   color: var(--primary-color);
   min-height: 100vh;
@@ -49,8 +49,8 @@ h3 {
 .btn-jogar {
   padding: 8px 15px;
   border: 0;
-  background: var(--primary-color) ;
+  background: var(--primary-color);
   color: white;
-  border-radius: 5px ;
+  border-radius: 5px;
   margin-top: 20px;
 }
